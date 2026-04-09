@@ -163,3 +163,8 @@ cython_debug/
 
 .DS_Store
 .venv/
+.vevn/lib64
+.gitignore
+.vevn/bin/python
+.vevn/bin/python3
+.vevn/bin/python3.12
